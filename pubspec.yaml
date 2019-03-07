@@ -1,7 +1,7 @@
 name: flutter_native_log
 description: A Flutter plugin for calling natice Log function on Android and iOS platform.
 version: 0.0.1
-author: zhengkan29@163.com
+author: Kan zhengkan29@163.com
 homepage: https://github.com/kandroid29/flutter_native_log
 
 environment:
